@@ -1,7 +1,3 @@
-# DOCS
-
-Criando a estrutura inicial do projeto
-
-## Lista de artefatos
+# Docs
 
 - [Artefatos](doc-artefatos/README.md)

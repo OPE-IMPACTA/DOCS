@@ -2,4 +2,4 @@
 
 ## [Voltar](../README.md)
 
-- [Artefato 1](doc-artefatos/modules/artefato.md)
+- [1º Artefato](modules/artefato01.md)
