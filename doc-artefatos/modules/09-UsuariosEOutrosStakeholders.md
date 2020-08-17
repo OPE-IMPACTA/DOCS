@@ -3,7 +3,6 @@
 Lista de Usuários e Outros Stakeholders
 
 
-## Equipe
 <table>
     <thead>
         <tr>
