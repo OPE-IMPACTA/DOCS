@@ -2,7 +2,6 @@
 
 Cliente: Bullest Soluções Ltda.
 
-___
 Contato: 
     Email: contato@bullest.com.br
     Whatsapp: (11) 9 4323-9967
