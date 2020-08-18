@@ -33,5 +33,10 @@ Lista de Usuários e Outros Stakeholders
             <td>Clientes da empresa Bullest</td>
             <td>Eles estão incluidos no projeto, pois o resultado final do sistema será para sua visualização</td>
         </tr>
+        <tr>
+            <th>Faculdade Impacta</th>
+            <td>Professores Orientadores</td>
+            <td>Eles irão orientar a equipe de desenvolvimento do projeto.</td>
+        </tr>
     </tbody>
 </table>
