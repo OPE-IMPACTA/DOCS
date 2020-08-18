@@ -1,0 +1,5 @@
+# Declaração do Escopo
+
+
+ 
+ 

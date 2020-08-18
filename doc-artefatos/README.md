@@ -1,0 +1,18 @@
+# Lista de artefatos
+
+## [Voltar](../README.md)
+
+- [1º Artefato - Declaração do escopo](modules/01-DeclaracaoDeEscopo.md)
+- [2º Artefato - Integrantes do Projeto](modules/02-IntegrantesDoProjeto.md)
+- [3º Artefato - Regras de comunicação](modules/02-IntegrantesDoProjeto.md)
+- [4º Artefato - Glossário](modules/04-Glossario.md)
+- [5º Artefato - Referências](modules/05-Referencias.md)
+- [6º Artefato - Lista de necessidades](modules/06-ListaDeNecessidades.md)
+- [7º Artefato - Declaração do Problema](modules/07-DeclaracaoDoProblema.md)
+- [8º Artefato - Análise de causas e raízes](modules/08-AnaliseDeCausasERaizes.md)
+- [9º Artefato - Usuários e outros stakeholders](modules/09-UsuariosEOutrosStakeholders.md)
+- [10º Artefato - Fronteiras sistêmicas](modules/10-FronteiraSistemica.md)
+- [11º Artefato - Lista de restrições](modules/11-ListaDeRestricoes.md)
+- [12º Artefato - Lista de característica](modules/12-ListaDeCaracteristicas.md)
+- [13º Artefato - Lista de característica](modules/13-ListaDeCaracteristicas.md)
+- [14º Artefato - MatrizDeRastreabilidade](modules/14-MatrizDeRastreabilidade.md)

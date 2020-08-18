@@ -1,3 +1,3 @@
-# DOCS
+# Docs
 
-Criando a estrutura inicial do projeto
+- [Artefatos](doc-artefatos/README.md)
