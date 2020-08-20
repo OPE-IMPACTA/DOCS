@@ -1,5 +1,2 @@
 # Declaração do Escopo
 
-
- 
- 
