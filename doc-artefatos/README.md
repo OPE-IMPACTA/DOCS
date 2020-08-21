@@ -4,7 +4,7 @@
 
 - [1º Artefato - Declaração do escopo](modules/01-DeclaracaoDeEscopo.md)
 - [2º Artefato - Integrantes do Projeto](modules/02-IntegrantesDoProjeto.md)
-- [3º Artefato - Regras de comunicação](modules/02-IntegrantesDoProjeto.md)
+- [3º Artefato - Regras de comunicação](modules/03-RegrasDeComunicacao.md)
 - [4º Artefato - Glossário](modules/04-Glossario.md)
 - [5º Artefato - Referências](modules/05-Referencias.md)
 - [6º Artefato - Lista de necessidades](modules/06-ListaDeNecessidades.md)

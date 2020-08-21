@@ -1,6 +1,5 @@
 # Regras de Comunicação
 
-
 - Os contatos com o cliente para sanar dúvidas devem ser pelo Whatsapp.
 - Reuniões presenciais devem ocorrer apenas depois do término do isolamento social.
 - A cada definição do projeto haverá vídeo conferência via Meet da Google
