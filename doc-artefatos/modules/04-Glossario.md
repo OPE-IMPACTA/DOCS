@@ -1,5 +1,3 @@
-(setq markdown-css-paths '("./style.css"))
-
 # Glossário
 
 Termo, conceito ou abreviação   | Definição

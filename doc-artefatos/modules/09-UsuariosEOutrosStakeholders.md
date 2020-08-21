@@ -1,42 +1,10 @@
 # Usuarios e Outros Stakeholders
 
-Lista de Usuários e Outros Stakeholders
+## Lista de Usuários e Outros Stakeholders
 
-
-<table>
-    <thead>
-        <tr>
-            <th></th>
-            <th>Usuários</th>
-            <th>Descrição</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <th>Equipe de Desenvolvimento</th>
-            <td>
-                Noemi C. Almeida </br> 
-                Guilherme V. Trindade </br> 
-                Henrique G. Fittipaldi </br> 
-                Jhuana L. F. Manhaes </br> 
-                Matheus S. Jose </br> 
-            </td>
-            <td>A equipe vai desenvolver o projeto para a conclusão do curso</td>
-        </tr>
-        <tr>
-            <th>Cliente</th>
-            <td>Bullest Soluções LTDA.</td>
-            <td>O cliente vai receber o projeto e utilizar o sistema desenvolvido</td>
-        </tr>
-        <tr>
-            <th>"Leitores"</th>
-            <td>Clientes da empresa Bullest</td>
-            <td>Eles estão incluidos no projeto, pois o resultado final do sistema será para sua visualização</td>
-        </tr>
-        <tr>
-            <th>Faculdade Impacta</th>
-            <td>Professores Orientadores</td>
-            <td>Eles irão orientar a equipe de desenvolvimento do projeto.</td>
-        </tr>
-    </tbody>
-</table>
+Todos      | Usuários   | Descrição
+:--------- | :--------- | :---------
+|Equipe de Desenvolvimento |  Guilherme V. Trindade, Jhuana L. F. Manhaes, Henrique G. Fittipaldi,  Matheus S. Jose e Noemi C. Almeida | A equipe vai desenvolver o projeto para a conclusão do curso
+|Cliente | Bullest Soluções LTDA | O cliente vai receber o projeto e utilizar o sistema desenvolvido
+|Leitores | Clientes da empresa Bullest | Eles estão incluidos no projeto, pois o resultado final do sistema será para sua visualização
+|Faculdade Impacta | Professores Orientadores| Eles irão orientar a equipe de desenvolvimento do projeto
