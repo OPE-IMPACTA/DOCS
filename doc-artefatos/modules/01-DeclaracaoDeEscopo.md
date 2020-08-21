@@ -3,20 +3,20 @@
 ## **BulleST**
 
 ### **1. Justificativa do projeto**
-A BulleST possui hoje um software que gerencia todas as suas atividades do dia a dia, por exemplo, cadastro dos clientes, projetos e até mesmo o controle de ponto dos seus funcionários. Pelo software não atender todas as expectativas para o bom controle das suas rotinas, isso tem gerado alguns prejuízos no controle de gestão tanto dos projetos quanto do controle de ponto dos seus funcionários.
+A BulleST possui hoje um software que gerencia todas as suas atividades do dia a dia, por exemplo, cadastro dos clientes, projetos e até mesmo o controle de entrada e saída dos seus funcionários. O aplicativo atual não atende todas as expectativas para o bom controle das suas rotinas, e isso tem gerado alguns prejuízos no controle de gestão tanto dos projetos quanto do controle de ponto dos seus funcionários.
 
-Acreditamos que a implantação de um novo software de gerenciamento de gestão e controle de ponto mais completo e eficiente é a melhor solução nesse caso, pois isso irá facilitar em toda a organização e gestão para analisar e tomar novas decisões com base nos relátorios gerados pelo o software.
+Acreditamos que a implantação de um novo sistema de gerenciamento de gestão e controle de atividades e projetos mais completo e eficiente é a melhor solução nesse caso, pois isso irá facilitar em toda a organização e gestão para analisar e tomar novas decisões com base nos relátorios gerados pelo o software.
 
 ### **2. Finalidade do projeto**
-Implantar um novo software para melhorar a gestão da empresa.
+Implantar um novo sistema para melhorar a gestão da empresa.
 
 ### **3. Objetivo(s) do Projeto**
-- Disponibilizar um software de gestão e controle de pontos
+- Disponibilizar um sistema de gestão e controle de entrada e saída
 - Disponibilizar relatórios para facilitar na tomada de decisão
 - Disponizar relatórios de prestação de serviço para os clientes
 
 ### **4. Descrição do Produto**
-O software será capaz de realizar as operações de gerenciamento do negócio da empresa, tais como, cadastrar novos clientes, projetos, ter o controle de ponto dos funcionários e geração de relatórios.
+O software será capaz de realizar as operações de gerenciamento do negócio da empresa, tais como, cadastrar novos clientes, projetos, ter o controle de ponto de entrada e saída dos funcionários e geração de relatórios.
 
 A princípio, cada colaborador terá acesso para cadastrar as suas horas trabalhadas nos projetos, e gestor terá acesso a esse controle das horas trabalhadas, clientes e projetos.
 
@@ -41,6 +41,7 @@ Prazo estimado: aproximadamente 12 meses
 Não faz parte do projeto:
 - Cobrar pelo serviço prestado
 - Desenvolver funcionalidade que fogem do escopo
+- Arcar com despesas financeiras de hospedagem do projeto
 
 ### **9. Critérios de Aceitação**
 - Considerar que o software é para apresentação da OPE
@@ -52,6 +53,8 @@ Não faz parte do projeto:
 ### **11. Restrições**
 - Orçamento limitado
 - Curva de aprendizado
+- Tempo limitado
 
 ### **12. Riscos**
 - Falta de recursos para trabalhar
+- Tempo limitado
