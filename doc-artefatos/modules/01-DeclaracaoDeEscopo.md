@@ -2,6 +2,7 @@
 
 ## **BulleST**
 
+
 ### **1. Justificativa do projeto**
 A BulleST possui hoje um software que gerencia todas as suas atividades do dia a dia, por exemplo, cadastro dos clientes, projetos e até mesmo o controle de entrada e saída dos seus funcionários. O aplicativo atual não atende todas as expectativas para o bom controle das suas rotinas, e isso tem gerado alguns prejuízos no controle de gestão tanto dos projetos quanto do controle de ponto dos seus funcionários.
 
