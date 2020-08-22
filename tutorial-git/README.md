@@ -5,6 +5,7 @@
 - Executar o comando `git clone https://github.com/OPE-IMPACTA/DOCS` no terminal dentro do diretório que deseja clonar o projetos
 
 Comandos do git
+
 - `git branch` para verificar as branchs locais
 - `git branch -a` para verificar as branchs locais e remotas
 - `git checkout nome-da-branch` para mudar de branch

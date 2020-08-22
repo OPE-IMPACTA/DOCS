@@ -3,11 +3,11 @@
 Cliente: Bullest Soluções Ltda.
 
 Contato: 
-    Email: contato@bullest.com.br
-    Whatsapp: (11) 9 4323-9967
-    Telefone: (11) 4323-9967 - (11) 4323-9965
+- Email: contato@bullest.com.br
+- Whatsapp: (11) 9 4323-9967
+- Telefone: (11) 4323-9967 - (11) 4323-9965
+- site: http://bullest.com.br/
 ___
-
 
 Equipe de Desenvolvimento:
 
