@@ -22,8 +22,10 @@ Legenda:
         1: Primeira versão do sistema (contém todas as características críticas, podendo ter algumas características importantes e úteis).
         2: Segunda versão do sistema (contém todas as características Importantes, podendo ter algumas características úteis).
         3: Terceira versão do sistema (contém todas as características úteis).
-        4: Quarta versão do sistema (contém todas as características úteis).# | Nome | Descrição | (P) | (E) | (R) | (B)
-:----|:-----|:----|:----:|:----:|:----:|:----:|:----:
+        4: Quarta versão do sistema (contém todas as características úteis).
+        
+| # | Nome | Descrição | (P) | (E) | (R) | (B)
+|:----:|:-----|:----|:----:|:----:|:----:|:----:|
 | 01 | Login | Controle de acesso do usuário. | C | M | A | 1 |
 | 02 | Logout | Saída de acesso do usuário. | C | M | B | 1 |
 | 03 | Registrar Entrada | Registros de entrada do funcionário. | I | M | B | 1 |

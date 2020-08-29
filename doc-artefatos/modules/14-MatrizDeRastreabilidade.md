@@ -35,10 +35,10 @@
 | 22 | Aviso de excedimento de horas 2 | | | X | X | |
 | 23 | Aviso de excedimento de horas 3 | | | X | X | |
 | 24 | Visão do cliente | | | | | X |
-<!-- | 25 | Registrar Pergunta | | | | | |
-| 26 | Registrar Resposta | | | | | |
-| 27 | Encerrar pergunta | | | | | | -->
 | 28 | Aviso de Horas Extras | | | X | X | |
 | 29 | Visualização dos lucros | | X | | | |
 | 30 | Buscar nota fiscal | X | | | | |
 | 31 | Calcular gastos | | X | | | |
+<!-- | 25 | Registrar Pergunta | | | | | |
+| 26 | Registrar Resposta | | | | | |
+| 27 | Encerrar pergunta | | | | | | -->
