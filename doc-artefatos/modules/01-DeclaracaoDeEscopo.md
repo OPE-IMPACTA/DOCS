@@ -31,3 +31,11 @@ Os custos do desenvolvimento do projeto serão resumidos no treinamento da equip
 Orçamento estará limitado apenas ao treinamento da equipe e a hospedagem do sistema. A curva deaprendizado da equipe pode ser o principal fator para possíveis atrazos, já que o tempo de entrega do projeto e limitado. Essas serão nossas principais restrições. 
 
 O projeto possui riscos que podem atrapalhar o desenvolvimento do projeto é a falta de recursos para trabalhar, como internet ruim, computadores e o tempo limitado.
+
+| Stakeholders |
+:----:|:-----:|:-----:
+| Desenvolvedor | Guilherme Valverde Trindade | contato: guilherme.trindade@aluno.faculdadeimpacta.com.br / (11) 9 9541-8111
+| Desenvolvedor | Henrique Garcia Fittipaldi | contato: henrique.fittipaldi@aluno.faculdadeimpacta.com.br / (11) 9 7040-4336
+| Desenvolvedor | Jhuana Lorraine Ferreira Manhaes | contato: jhuana.manhaes@aluno.faculdadeimpacta.com.br / (11) 9 8452-8433
+| Desenvolvedor | Matheus Souza Jose | contato: matheus.jose@aluno.faculdadeimpacta.com.br / (11) 9 3009-2760
+| Desenvolvedor | Noemi Cavalcanti Almeida | contato: noemi.almeida@aluno.faculdadeimpacta.com.br / (11) 9 5346-3376

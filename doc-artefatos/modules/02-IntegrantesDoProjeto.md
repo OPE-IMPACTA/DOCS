@@ -36,8 +36,8 @@ ___
     Celular: (11) 9 3009-2760
 ___		
 ___
-    Aluno: Noemi Cavalcanti Almeida	
+    Aluno: Noemi Cavalcanti Almeida
     RA: 1902069
-    E-mail:	Noemi.almeida@aluno.faculdadeimpacta.com.br	
+    E-mail: Noemi.almeida@aluno.faculdadeimpacta.com.br
     Celular: (11) 9 5376-3376
 ___

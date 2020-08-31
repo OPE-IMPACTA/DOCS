@@ -2,7 +2,7 @@
 ### (Descrição de Cada Característica)
 
 | # | Nome | Descrição
-:----|:-----|:----
+:----:|:-----:|:----:
 | 01 | Login | Controle de acesso do usuário.
 | 02 | Logout | Saída de acesso do usuário.
 | 03 | Registrar Entrada | Registros de entrada do funcionário.
