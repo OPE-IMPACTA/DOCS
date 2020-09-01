@@ -32,7 +32,7 @@ Legenda:
 | 04 | Registrar Pausa | Registros de entrada/sáida de pausa dos funcionários. | I | M | B | 1 |
 | 05 | Registrar Saída | Registros sáida dos funcionários. | I | M | B | 1 |
 | 06 | Selecionar projeto | Selecionar projeto da atividade. | C | M | B | 1 |
-| 07 | Criar atividades | Criar uma nova atividade. | | | | |
+| 07 | Criar atividades | Criar uma nova atividade. | C | M | B | 1 |
 | 08 | Clientes | Registro de todos os clientes da empresa. | C | B | B | 1 |
 | 09 | Usuários | Registro de todos os usuários - que também são funcionários da empresa. | C | A | M | 1 |
 | 10 | Projetos | Registro de todos os projetos da empresa por cliente. | C | M | B | 1 |
@@ -50,9 +50,6 @@ Legenda:
 | 22 | Aviso de excedimento de horas 2 | Alertar a empresa quando a quantidade de horas prestadas por projeto exceder. | U | A | A | 3 |
 | 23 | Aviso de excedimento de horas 3 | Alertar a gerência quando funcionários excederem a quantidade de horas prestadas no mês. | U | A | A | 3 |
 | 24 | Visão do cliente | Página voltada ao cliente para monitoramento de projetos. | U | M | M | 3 |
-| 25 | Registrar Pergunta | Registrar pergunta de usuário. | U | M | B | 4 |
-| 26 | Registrar Resposta | Registrar resposta para pergunta. | U | M | B | 4 |
-| 27 | Encerrar pergunta | Encerrar pergunta realizada. | U | B | B | 4 |
-| 28 | Visualização dos lucros | o quanto cada projeto rendeu para empresa (visivel somente para a gerencia). | U | M | M | 4 |
-| 29 | Buscar nota fiscal | Pesquisar nota fiscal por numero. | U | A | A | 3 |
-| 30 | Calcular gastos | Registrar despesas gerais da empresa. | U | I | I | 4 |
+| 25 | Visualização dos lucros | o quanto cada projeto rendeu para empresa (visivel somente para a gerencia). | U | M | M | 4 |
+| 26 | Buscar nota fiscal | Pesquisar nota fiscal por numero. | U | A | A | 3 |
+| 27 | Calcular gastos | Registrar despesas gerais da empresa. | U | I | I | 4 |

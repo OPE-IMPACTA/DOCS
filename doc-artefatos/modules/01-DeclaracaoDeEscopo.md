@@ -32,10 +32,12 @@ Orçamento estará limitado apenas ao treinamento da equipe e a hospedagem do si
 
 O projeto possui riscos que podem atrapalhar o desenvolvimento do projeto é a falta de recursos para trabalhar, como internet ruim, computadores e o tempo limitado.
 
-| Stakeholders |
+| Stakeholders | Nome | Contato |
 :----:|:-----:|:-----:
-| Desenvolvedor | Guilherme Valverde Trindade | contato: guilherme.trindade@aluno.faculdadeimpacta.com.br / (11) 9 9541-8111
-| Desenvolvedor | Henrique Garcia Fittipaldi | contato: henrique.fittipaldi@aluno.faculdadeimpacta.com.br / (11) 9 7040-4336
-| Desenvolvedor | Jhuana Lorraine Ferreira Manhaes | contato: jhuana.manhaes@aluno.faculdadeimpacta.com.br / (11) 9 8452-8433
-| Desenvolvedor | Matheus Souza Jose | contato: matheus.jose@aluno.faculdadeimpacta.com.br / (11) 9 3009-2760
-| Desenvolvedor | Noemi Cavalcanti Almeida | contato: noemi.almeida@aluno.faculdadeimpacta.com.br / (11) 9 5346-3376
+| Desenvolvedor | Guilherme Valverde Trindade | guilherme.trindade@aluno.faculdadeimpacta.com.br <br> (11) 9.9541-8111
+| Desenvolvedor | Henrique Garcia Fittipaldi | henrique.fittipaldi@aluno.faculdadeimpacta.com.br <br> (11) 9.7040-4336
+| Desenvolvedor | Jhuana Lorraine Ferreira Manhaes | jhuana.manhaes@aluno.faculdadeimpacta.com.br <br> (11) 9.8452-8433
+| Desenvolvedor | Matheus Souza Jose | matheus.jose@aluno.faculdadeimpacta.com.br <br> (11) 9.3009-2760
+| Desenvolvedor | Noemi Cavalcanti Almeida | noemi.almeida@aluno.faculdadeimpacta.com.br <br> (11) 9.5346-3376
+| Cliente | Felipe Bulle | felipe@bullest.com.br <br> (11) 9.6976-6676
+

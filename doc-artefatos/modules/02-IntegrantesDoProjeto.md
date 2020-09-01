@@ -9,35 +9,10 @@ Contato:
 - site: http://bullest.com.br/
 ___
 
-Equipe de Desenvolvimento:
-
-___
-    Aluno: Guilherme Valverde Trindade
-    RA: 1901907
-    E-mail: guilherme.trindade@aluno.faculdadeimpacta.com.br
-    Celular: (11) 9 9541-8111
-___	
-___
-    Aluno: Henrique Garcia Fittipaldi
-    RA: 1901257
-    E-mail: henrique.fittipaldi@aluno.faculdadeimpacta.com.br
-    Celular: (11) 9 7040-4336
-___	
-___
-    Aluno: Jhuana Lorraine Ferreira Manhaes
-    RA: 1901950
-    E-mail: jhuana.manhaes@aluno.faculdadeimpacta.com.br 
-    Celular: (11) 9 8452-8433
-___	
-___
-    Aluno: Matheus Souza Jose
-    RA: 1901054
-    E-mail: matheus.jose@aluno.faculdadeimpacta.com.br
-    Celular: (11) 9 3009-2760
-___		
-___
-    Aluno: Noemi Cavalcanti Almeida
-    RA: 1902069
-    E-mail: Noemi.almeida@aluno.faculdadeimpacta.com.br
-    Celular: (11) 9 5376-3376
-___
+| Nome | RA | Email | Celular | 
+|:-----|:---|:------|:--------|
+| Guilherme Valverde Trindade | 1901907 | guilherme.trindade@aluno.faculdadeimpacta.com.br | (11) 9 9541-8111 |
+| Henrique Garcia Fittipaldi | 1901257 | henrique.fittipaldi@aluno.faculdadeimpacta.com.br | (11) 9 7040-4336 |
+| Jhuana Lorraine Ferreira Manhaes | 1901950 | jhuana.manhaes@aluno.faculdadeimpacta.com.br  | (11) 9 8452-8433 |
+| Matheus Souza Jose | 1901054 | matheus.jose@aluno.faculdadeimpacta.com.br | (11) 9 3009-2760 |
+| Noemi Cavalcanti Almeida | 1902069 | Noemi.almeida@aluno.faculdadeimpacta.com.br | (11) 9 5376-3376 |
