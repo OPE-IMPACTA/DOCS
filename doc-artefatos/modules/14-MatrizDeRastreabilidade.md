@@ -20,8 +20,8 @@
 | 09 | Usuários  | | X | |
 | 10 | Projetos | | X | |
 | 11 | Módulos | | X | |
-| 12 | Horas | | | |
-| 13 | Relátório | | | |
+| 12 | Horas | X | | |
+| 13 | Relátório | | | X |
 | 14 | Rewards | | | X |
 | 15 | Admin | | | X |
 | 16 | Emitir Nota fiscal | | X | |
