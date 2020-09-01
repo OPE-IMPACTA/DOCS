@@ -50,6 +50,7 @@ Legenda:
 | 22 | Aviso de excedimento de horas 2 | Alertar a empresa quando a quantidade de horas prestadas por projeto exceder. | U | A | A | 3 |
 | 23 | Aviso de excedimento de horas 3 | Alertar a gerência quando funcionários excederem a quantidade de horas prestadas no mês. | U | A | A | 3 |
 | 24 | Visão do cliente | Página voltada ao cliente para monitoramento de projetos. | U | M | M | 3 |
-| 25 | Visualização dos lucros | o quanto cada projeto rendeu para empresa (visivel somente para a gerencia). | U | M | M | 4 |
-| 26 | Buscar nota fiscal | Pesquisar nota fiscal por numero. | U | A | A | 3 |
-| 27 | Calcular gastos | Registrar despesas gerais da empresa. | U | I | I | 4 |
+| 25 | Aviso de Horas Extras | Avisar a empresa quando um funcionário exceder suas horas de trabalho no mês | U | M | M | 2 |
+| 26 | Visualização dos lucros | o quanto cada projeto rendeu para empresa (visivel somente para a gerencia). | U | M | M | 4 |
+| 27 | Buscar nota fiscal | Pesquisar nota fiscal por numero. | U | A | A | 3 |
+| 28 | Calcular gastos | Registrar despesas gerais da empresa. | U | I | I | 4 |

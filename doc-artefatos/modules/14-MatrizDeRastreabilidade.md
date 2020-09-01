@@ -17,7 +17,7 @@
 | 06 | Selecionar Atividades | X | | |
 | 07 | Criar Atividades | X | | |
 | 08 | Clientes | | X | |
-| 09 | Usuários  | | X | |
+| 09 | Usuários | | X | |
 | 10 | Projetos | | X | |
 | 11 | Módulos | | X | |
 | 12 | Horas | X | | |
@@ -35,5 +35,5 @@
 | 24 | Visão do cliente | | X | |
 | 25 | Aviso de Horas Extras | | | X |
 | 26 | Visualização dos lucros | | X | |
-| 27 | Buscar nota fiscal |  | | X |
+| 27 | Buscar nota fiscal | | | X |
 | 28 | Calcular gastos | | X | |
