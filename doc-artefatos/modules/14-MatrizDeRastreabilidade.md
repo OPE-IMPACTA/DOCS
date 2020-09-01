@@ -8,7 +8,7 @@
     N03: Gerar relatórios de horas trabalhadas dos funcionários.
 
 | # | Nome | N01 | N02 | N03 |
-|:----:|:-----:|:----:|:-----:|:-----:|:-----:|:------:
+|:--:|:--:|:--:|:--:|:--:|
 | 01 | Login | X | | |
 | 02 | Logout | X | | |
 | 03 | Registrar Entrada | X | | |
