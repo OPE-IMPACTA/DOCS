@@ -30,10 +30,3 @@
                 Atividades:
                     - Registrar as atividades realizadas diariamente
 
-
-                    
-Guilherme Valverde Trindade - RA: 1901907
-Jhuana Lorraine Ferreira Manhaes - RA: 1901950
-Henrique Garcia Fittipaldi - RA: 1901257
-Matheus Souza Jose - RA: 1901054
-Noemi Cavalcanti Almeida - RA: 1902069

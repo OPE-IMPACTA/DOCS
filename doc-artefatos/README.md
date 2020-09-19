@@ -15,4 +15,5 @@
 - [11º Artefato - Lista de restrições](modules/11-ListaDeRestricoes.md)
 - [12º Artefato - Lista de característica](modules/12-ListaDeCaracteristicas.md)
 - [13º Artefato - Lista de característica](modules/13-ListaDeCaracteristicas.md)
-- [14º Artefato - MatrizDeRastreabilidade](modules/14-MatrizDeRastreabilidade.md)
+- [14º Artefato - Matriz de Rastreabilidade](modules/14-MatrizDeRastreabilidade.md)
+- [15º Artefato - Arquitetura de Negócio](modules/15-ArquiteturaDeNegocio.md)
