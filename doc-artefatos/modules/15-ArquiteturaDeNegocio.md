@@ -1,7 +1,7 @@
 # Arquitetura de Negócios
 
 
-#### Cenário: Cliente contrata projeto
+### Cenário: Cliente contrata projeto
 - __Nó operacional:__ Área Comercial de vendas
   - __Capacidade Operacional:__ Realizar negociações
     - __Processos:__  
@@ -12,7 +12,7 @@
     - __Processos:__
       - Entender as necessidades do cliente
 
-#### Cenário: Empresa contrata fornecedor
+### Cenário: Empresa contrata fornecedor
 - __Nó operacional:__ Área Comercial de compras
   - __Capacidade Operacional:__ Adquirir ferramentas, softwares e materiais
     - __Processos:__
@@ -27,7 +27,7 @@
       - Fazer orçamentos
       - Fidelizar contratos de fornecimento 
 
-#### Cenário: Desenvolver Sistemas
+### Cenário: Desenvolver Sistemas
 - __Nó operacional:__ Área de Desenvolvimento
   - __Capacidade Operacional:__ Desenvolver sistemas
     - __Processos:__
@@ -43,7 +43,7 @@
       - Encontrar solução para fazer a manutenção do sistema
 Corrigir código
 
-#### Cenário: Cliente contata suporte da empresa
+### Cenário: Cliente contata suporte da empresa
 - __Nó operacional:__ Área de Suporte ao Cliente
   - __Capacidade Operacional:__ Atender Cliente
     - __Processos:__ 
@@ -59,7 +59,7 @@ Corrigir código
     - __Processos:__
       - Instruir cliente a utilizar o sistema
 
-#### Cenário: Análise do Projeto
+### Cenário: Análise do Projeto
 - __Nó operacional:__ Área de Análise
   - __Capacidade Operacional:__ Analisar documentação
     - __Processos:__
@@ -77,7 +77,7 @@ Corrigir código
       - Criar escopo
       - Gerar requisitos
 
-#### Cenário: Gerenciamento de funcionários
+### Cenário: Gerenciamento de funcionários
 - __Nó operacional:__ Recursos Humanos
   - __Capacidade Operacional:__ Manter funcionários
     - __Processos:__
@@ -87,7 +87,7 @@ Corrigir código
       - Apoio ao funcionário
       - Atribuir férias ao funcionário
 
-#### Cenário: Gerenciamento de atividades e projetos
+### Cenário: Gerenciamento de atividades e projetos
 - __Nó operacional:__ Área Administrativa
   - __Capacidade Operacional:__ Gerar relatórios    
     - __Processos:__
@@ -95,7 +95,7 @@ Corrigir código
       - Gerar relatório de atividades realizadas em projetos
       - Gerar relatórios de horas trabalhadas por funcionários
 
-#### Cenário: Catalogar entrada e saída de funcionários
+### Cenário: Catalogar entrada e saída de funcionários
 - __Nó operacional:__ Funcionários
   - __Capacidade Operacional:__ Registrar ponto
     - __Processos:__
