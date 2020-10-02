@@ -17,3 +17,5 @@
 - [13º Artefato - Lista de característica](modules/13-ListaDeCaracteristicas.md)
 - [14º Artefato - Matriz de Rastreabilidade](modules/14-MatrizDeRastreabilidade.md)
 - [15º Artefato - Arquitetura de Negócio](modules/15-ArquiteturaDeNegocio.md)
+- [16º Artefato - Diagrama de Fluxo de Dados](modules/16-DiagramaDeFluxoDeDados.md)
+- [17º Artefato - Análise de Eventos](modules/17-AnaliseDeEventos.md)
