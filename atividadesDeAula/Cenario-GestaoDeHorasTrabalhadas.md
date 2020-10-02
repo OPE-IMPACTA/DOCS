@@ -4,4 +4,4 @@
 ### Nó operacional: Área administrativa
 
 #### Capacidade Operacional: Gestor da empresa
-    - Processo Operacional 
+- Processo Operacional 
