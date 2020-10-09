@@ -19,3 +19,4 @@
 - [15º Artefato - Arquitetura de Negócio](modules/15-ArquiteturaDeNegocio.md)
 - [16º Artefato - Diagrama de Fluxo de Dados](modules/16-DiagramaDeFluxoDeDados.md)
 - [17º Artefato - Análise de Eventos](modules/17-AnaliseDeEventos.md)
+- [18º Artefato - Descrição dos Processos de Negócio](modules/18-DescricaoDosProcessosDeNegocio.md)
