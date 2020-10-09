@@ -50,3 +50,12 @@
     - __Processos:__
       - Registrar entrada
       - Registrar saída
+
+### Cenário: Registro de atividades 
+- __Nó operacional:__ Funcionário
+  - __Capacidade Operacional:__  Realizar demanda de processos de desenvolvimento e/ou suporte
+    - __Processos:__
+      - Registrar atividade realizada no dia
+      - Registrar detalhes da atividade
+      - Finalizar atividade
+
