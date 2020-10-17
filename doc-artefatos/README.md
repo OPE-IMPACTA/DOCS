@@ -24,4 +24,4 @@
 - [20º Artefato - Modelo Conceitual de Negócio](modules/20-ModeloConceitualDeNegocio.md)
 - [21º Artefato - Máquina de Estado](modules/21-MaquinaDeEstado.md)
 - [22º Artefato - Requisitos do Sistema](modules/22-RequisitosDoSistema.md)
-- [23º Artefato - Matriz de Rastreabilidade](modules/23-MatrizDeRastreabilidad.md)
+- [23º Artefato - Matriz de Rastreabilidade](modules/23-MatrizDeRastreabilidade.md)
