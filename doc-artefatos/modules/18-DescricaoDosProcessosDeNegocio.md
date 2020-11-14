@@ -3,7 +3,7 @@
 #### Atender Cliente
 <div style="display: flex">
 
-![Artefato18-Processo01](../img/Artefato18-01.jpg)
+![Artefato18-Processo01](../img/artefato18-01.jpg)
 
 <div>
 
